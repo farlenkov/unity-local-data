@@ -1,0 +1,15 @@
+{
+  "name": "com.farlenkov.unity-local-data",
+  "displayName": "GAME / LOCAL DATA",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Unity Local Data",
+  "keywords": [
+    ""
+  ],
+  "type": "library",
+  "author": {
+    "name": "Mike Farlenkov",
+    "url": "https://farlenkov.com"
+  }
+}
