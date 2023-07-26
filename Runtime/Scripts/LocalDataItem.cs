@@ -18,7 +18,7 @@ namespace UnityLocalData
 
         public void Reset()
         {
-            Value = item.DefaultValue;
+            Value = DefaultValue;
         }
     }
 }
